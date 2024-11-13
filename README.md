@@ -178,7 +178,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
- ![alt text](<Screenshot (26).png>)
+![image](https://github.com/user-attachments/assets/9097274d-d09a-4f0a-829f-c23f4ee8a1b5)
+
 
 ## STM 32 CUBE PROGRAM :
 ```
@@ -683,10 +684,11 @@ void lcd_write(Lcd_HandleTypeDef * lcd, uint8_t data, uint8_t len)
 
 ```
 ## Output screen shots of proteus  :
+ ![image](https://github.com/user-attachments/assets/fb04746d-a39b-4311-8767-18da4027f019)
+
  
- ![alt text](<Screenshot (24).png>)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![alt text](<Screenshot (25).png>)
- 
+![image](https://github.com/user-attachments/assets/22eab0fb-420a-4f67-a124-108202a09766)
+
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
